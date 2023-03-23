@@ -1,0 +1,2520 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\iashin.ai\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/exif-js
+File Name: C:\Downloaded Web Sites\iashin.ai\npm\exif-js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+File Name: C:\Downloaded Web Sites\iashin.ai\npm\mathjax@3\es5\tex-mml-chtml.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/highlight.min.js
+File Name: C:\Downloaded Web Sites\iashin.ai\ajax\libs\highlight.js\11.1.0\highlight.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/styles/monokai-sublime.min.css
+File Name: C:\Downloaded Web Sites\iashin.ai\ajax\libs\highlight.js\11.1.0\styles\monokai-sublime.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css
+File Name: C:\Downloaded Web Sites\iashin.ai\ajax\libs\normalize\5.0.0\normalize.min.css
+Content Type: text/css
+
+Uri: https://colab.research.google.com/assets/colab-badge.svg
+File Name: C:\Downloaded Web Sites\iashin.ai\assets\colab-badge.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
+File Name: C:\Downloaded Web Sites\iashin.ai\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i|Roboto+Mono:400,400i,700,700i&display=fallback
+File Name: C:\Downloaded Web Sites\iashin.ai\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\iashin.ai\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\iashin.ai\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\iashin.ai\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\iashin.ai\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\iashin.ai\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\iashin.ai\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\iashin.ai\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v22/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnANW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\iashin.ai\s\robotomono\v22\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnANW6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v22/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrmAB9W6Cpw.ttf
+File Name: C:\Downloaded Web Sites\iashin.ai\s\robotomono\v22\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrmAB9W6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v22/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW9.ttf
+File Name: C:\Downloaded Web Sites\iashin.ai\s\robotomono\v22\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v22/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2_ROW9.ttf
+File Name: C:\Downloaded Web Sites\iashin.ai\s\robotomono\v22\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://iashin.ai/
+File Name: C:\Downloaded Web Sites\iashin.ai\index.htm
+Content Type: text/html
+
+Uri: https://iashin.ai/assets/sparsesync/vggsound_sparse.csv
+File Name: C:\Downloaded Web Sites\iashin.ai\assets\sparsesync\vggsound_sparse.csv
+Content Type: text/csv
+
+Uri: https://iashin.ai/bmt.html
+File Name: C:\Downloaded Web Sites\iashin.ai\bmt.html
+Content Type: text/html
+
+Uri: https://iashin.ai/css/style.css
+File Name: C:\Downloaded Web Sites\iashin.ai\css\style.css
+Content Type: text/css
+
+Uri: https://iashin.ai/detector
+File Name: C:\Downloaded Web Sites\iashin.ai\detector-1.html
+Content Type: text/html
+
+Uri: https://iashin.ai/detector.html
+File Name: C:\Downloaded Web Sites\iashin.ai\detector.html
+Content Type: text/html
+
+Uri: https://iashin.ai/favicon.ico
+File Name: C:\Downloaded Web Sites\iashin.ai\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://iashin.ai/how_did_you_build_your_detector
+File Name: C:\Downloaded Web Sites\iashin.ai\how_did_you_build_your_detector-1.html
+Content Type: text/html
+
+Uri: https://iashin.ai/how_did_you_build_your_detector.html
+File Name: C:\Downloaded Web Sites\iashin.ai\how_did_you_build_your_detector.html
+Content Type: text/html
+
+Uri: https://iashin.ai/ide_customization.html
+File Name: C:\Downloaded Web Sites\iashin.ai\ide_customization.html
+Content Type: text/html
+
+Uri: https://iashin.ai/images/bmt/bi_modal_decoder.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\bmt\bi_modal_decoder.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/bmt/bi_modal_encoder.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\bmt\bi_modal_encoder.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/bmt/bi_modal_transformer.svg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\bmt\bi_modal_transformer.svg
+Content Type: image/svg+xml
+
+Uri: https://iashin.ai/images/bmt/decoder.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\bmt\decoder.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/bmt/encoder.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\bmt\encoder.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/bmt/proposal_generator.svg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\bmt\proposal_generator.svg
+Content Type: image/svg+xml
+
+Uri: https://iashin.ai/images/bmt_enc_dec_novel.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\bmt_enc_dec_novel.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/detector/certbot_challenge.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\detector\certbot_challenge.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/detector/detector_in_action.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\detector\detector_in_action.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/detector/detector_waiting.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\detector\detector_waiting.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/detector/flask_terminal.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\detector\flask_terminal.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/detector/freenom_dns.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\detector\freenom_dns.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/detector/gcloud_dns.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\detector\gcloud_dns.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/detector/status_bar_off.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\detector\status_bar_off.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/detector/status_bar_on.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\detector\status_bar_on.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/enc_dec.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\enc_dec.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/ide_customization/bracket_colorizer.gif
+File Name: C:\Downloaded Web Sites\iashin.ai\images\ide_customization\bracket_colorizer.gif
+Content Type: image/gif
+
+Uri: https://iashin.ai/images/ide_customization/css_peek.gif
+File Name: C:\Downloaded Web Sites\iashin.ai\images\ide_customization\css_peek.gif
+Content Type: image/gif
+
+Uri: https://iashin.ai/images/ide_customization/csv_rainbow.gif
+File Name: C:\Downloaded Web Sites\iashin.ai\images\ide_customization\csv_rainbow.gif
+Content Type: image/gif
+
+Uri: https://iashin.ai/images/ide_customization/emojisense.gif
+File Name: C:\Downloaded Web Sites\iashin.ai\images\ide_customization\emojisense.gif
+Content Type: image/gif
+
+Uri: https://iashin.ai/images/ide_customization/html_hint.gif
+File Name: C:\Downloaded Web Sites\iashin.ai\images\ide_customization\html_hint.gif
+Content Type: image/gif
+
+Uri: https://iashin.ai/images/ide_customization/live_server.gif
+File Name: C:\Downloaded Web Sites\iashin.ai\images\ide_customization\live_server.gif
+Content Type: image/gif
+
+Uri: https://iashin.ai/images/ide_customization/markdown_all_in_one.gif
+File Name: C:\Downloaded Web Sites\iashin.ai\images\ide_customization\markdown_all_in_one.gif
+Content Type: image/gif
+
+Uri: https://iashin.ai/images/ide_customization/path_intellisense.gif
+File Name: C:\Downloaded Web Sites\iashin.ai\images\ide_customization\path_intellisense.gif
+Content Type: image/gif
+
+Uri: https://iashin.ai/images/ide_customization/python_docstring.gif
+File Name: C:\Downloaded Web Sites\iashin.ai\images\ide_customization\python_docstring.gif
+Content Type: image/gif
+
+Uri: https://iashin.ai/images/ide_customization/pytorch_snippets.gif
+File Name: C:\Downloaded Web Sites\iashin.ai\images\ide_customization\pytorch_snippets.gif
+Content Type: image/gif
+
+Uri: https://iashin.ai/images/ide_customization/quick_and_simple_text_selection.gif
+File Name: C:\Downloaded Web Sites\iashin.ai\images\ide_customization\quick_and_simple_text_selection.gif
+Content Type: image/gif
+
+Uri: https://iashin.ai/images/ide_customization/remote_ssh.gif
+File Name: C:\Downloaded Web Sites\iashin.ai\images\ide_customization\remote_ssh.gif
+Content Type: image/gif
+
+Uri: https://iashin.ai/images/ide_customization/resourse_monitor.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\ide_customization\resourse_monitor.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/ide_customization/vim.gif
+File Name: C:\Downloaded Web Sites\iashin.ai\images\ide_customization\vim.gif
+Content Type: image/gif
+
+Uri: https://iashin.ai/images/mdvc.gif
+File Name: C:\Downloaded Web Sites\iashin.ai\images\mdvc.gif
+Content Type: image/gif
+
+Uri: https://iashin.ai/images/mdvc.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\mdvc.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/mdvc/Introduction.svg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\mdvc\Introduction.svg
+Content Type: image/svg+xml
+
+Uri: https://iashin.ai/images/mdvc/MDVC.svg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\mdvc\MDVC.svg
+Content Type: image/svg+xml
+
+Uri: https://iashin.ai/images/mdvc/Transformer_individual.svg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\mdvc\Transformer_individual.svg
+Content Type: image/svg+xml
+
+Uri: https://iashin.ai/images/sparsesync/lrs_examples/01GWGmg5jn8_00001_nfc.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\sparsesync\lrs_examples\01GWGmg5jn8_00001_nfc.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/sparsesync/lrs_examples/01GWGmg5jn8_00001_orig.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\sparsesync\lrs_examples\01GWGmg5jn8_00001_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/sparsesync/lrs_examples/G17iMOw0ar8_00001_nfc.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\sparsesync\lrs_examples\G17iMOw0ar8_00001_nfc.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/sparsesync/lrs_examples/G17iMOw0ar8_00001_orig.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\sparsesync\lrs_examples\G17iMOw0ar8_00001_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/sparsesync/lrs_examples/i0QKBKWnkxg_00001_nfc.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\sparsesync\lrs_examples\i0QKBKWnkxg_00001_nfc.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/sparsesync/lrs_examples/i0QKBKWnkxg_00001_orig.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\sparsesync\lrs_examples\i0QKBKWnkxg_00001_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/sparsesync/lrs_examples/l141Mauo74A_00001_nfc.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\sparsesync\lrs_examples\l141Mauo74A_00001_nfc.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/sparsesync/lrs_examples/l141Mauo74A_00001_orig.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\sparsesync\lrs_examples\l141Mauo74A_00001_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/sparsesync/sparse_selector_arch.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\sparsesync\sparse_selector_arch.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/sparsesync/sparse_selector_teaser.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\sparsesync\sparse_selector_teaser.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/specvqgan/canary_calling.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\canary_calling.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/codebook.svg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\codebook.svg
+Content Type: image/svg+xml
+
+Uri: https://iashin.ai/images/specvqgan/drum-solo-audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\drum-solo-audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/drum_solo.svg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\drum_solo.svg
+Content Type: image/svg+xml
+
+Uri: https://iashin.ai/images/specvqgan/from_tokens_to_waveform.svg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\from_tokens_to_waveform.svg
+Content Type: image/svg+xml
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/000_baby/video_01965/half_2021-06-15T09-21-17.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\000_baby\video_01965\half_2021-06-15T09-21-17.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/000_baby/video_01965/half_2021-06-15T09-21-17_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\000_baby\video_01965\half_2021-06-15T09-21-17_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/000_baby/video_01997/half_2021-06-15T09-21-00.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\000_baby\video_01997\half_2021-06-15T09-21-00.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/000_baby/video_01997/half_2021-06-15T09-21-00_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\000_baby\video_01997\half_2021-06-15T09-21-00_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/001_cough/video_00331/half_2021-06-15T09-22-45.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\001_cough\video_00331\half_2021-06-15T09-22-45.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/001_cough/video_00331/half_2021-06-15T09-22-45_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\001_cough\video_00331\half_2021-06-15T09-22-45_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/001_cough/video_00347/half_2021-06-15T09-21-44.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\001_cough\video_00347\half_2021-06-15T09-21-44.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/001_cough/video_00347/half_2021-06-15T09-21-44_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\001_cough\video_00347\half_2021-06-15T09-21-44_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/002_dog/video_02689/half_2021-06-15T09-23-51.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\002_dog\video_02689\half_2021-06-15T09-23-51.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/002_dog/video_02689/half_2021-06-15T09-23-51_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\002_dog\video_02689\half_2021-06-15T09-23-51_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/002_dog/video_02721/half_2021-06-15T09-23-10.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\002_dog\video_02721\half_2021-06-15T09-23-10.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/002_dog/video_02721/half_2021-06-15T09-23-10_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\002_dog\video_02721\half_2021-06-15T09-23-10_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/003_drum/video_02510/half_2021-06-15T09-25-20.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\003_drum\video_02510\half_2021-06-15T09-25-20.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/003_drum/video_02510/half_2021-06-15T09-25-20_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\003_drum\video_02510\half_2021-06-15T09-25-20_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/003_drum/video_02542/half_2021-06-15T09-25-40.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\003_drum\video_02542\half_2021-06-15T09-25-40.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/003_drum/video_02542/half_2021-06-15T09-25-40_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\003_drum\video_02542\half_2021-06-15T09-25-40_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/004_fireworks/video_03019/half_2021-06-15T09-26-20.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\004_fireworks\video_03019\half_2021-06-15T09-26-20.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/004_fireworks/video_03019/half_2021-06-15T09-26-20_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\004_fireworks\video_03019\half_2021-06-15T09-26-20_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/004_fireworks/video_03051/half_2021-06-15T09-26-02.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\004_fireworks\video_03051\half_2021-06-15T09-26-02.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/004_fireworks/video_03051/half_2021-06-15T09-26-02_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\004_fireworks\video_03051\half_2021-06-15T09-26-02_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/005_gun/video_00818/half_2021-06-15T09-27-10.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\005_gun\video_00818\half_2021-06-15T09-27-10.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/005_gun/video_00818/half_2021-06-15T09-27-10_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\005_gun\video_00818\half_2021-06-15T09-27-10_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/005_gun/video_00834/half_2021-06-15T09-26-51.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\005_gun\video_00834\half_2021-06-15T09-26-51.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vas/005_gun/video_00834/half_2021-06-15T09-26-51_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vas\005_gun\video_00834\half_2021-06-15T09-26-51_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/009_baby_crying/2eWobSpugTw_17000_27000/half_2021-06-15T10-41-35.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\009_baby_crying\2eWobSpugTw_17000_27000\half_2021-06-15T10-41-35.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/009_baby_crying/2eWobSpugTw_17000_27000/half_2021-06-15T10-41-35_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\009_baby_crying\2eWobSpugTw_17000_27000\half_2021-06-15T10-41-35_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/022_bouncing_on_trampoline/2e1tRszQIPE_57000_67000/half_2021-06-15T10-41-05.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\022_bouncing_on_trampoline\2e1tRszQIPE_57000_67000\half_2021-06-15T10-41-05.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/022_bouncing_on_trampoline/2e1tRszQIPE_57000_67000/half_2021-06-15T10-41-05_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\022_bouncing_on_trampoline\2e1tRszQIPE_57000_67000\half_2021-06-15T10-41-05_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/034_cat_meowing/2eYaXTKSpMI_4000_14000/half_2021-06-15T10-41-56.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\034_cat_meowing\2eYaXTKSpMI_4000_14000\half_2021-06-15T10-41-56.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/034_cat_meowing/2eYaXTKSpMI_4000_14000/half_2021-06-15T10-41-56_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\034_cat_meowing\2eYaXTKSpMI_4000_14000\half_2021-06-15T10-41-56_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/095_francolin_calling/2ehbByOUJjM_16000_26000/half_2021-06-15T10-42-23.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\095_francolin_calling\2ehbByOUJjM_16000_26000\half_2021-06-15T10-42-23.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/095_francolin_calling/2ehbByOUJjM_16000_26000/half_2021-06-15T10-42-23_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\095_francolin_calling\2ehbByOUJjM_16000_26000\half_2021-06-15T10-42-23_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/135_owl_hooting/2eDP3jKoUd4_30000_40000/half_2021-06-15T10-41-20.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\135_owl_hooting\2eDP3jKoUd4_30000_40000\half_2021-06-15T10-41-20.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/135_owl_hooting/2eDP3jKoUd4_30000_40000/half_2021-06-15T10-41-20_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\135_owl_hooting\2eDP3jKoUd4_30000_40000\half_2021-06-15T10-41-20_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/137_penguins_braying/2bEQQ35Wkdc_31000_41000/half_2021-06-15T10-38-56.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\137_penguins_braying\2bEQQ35Wkdc_31000_41000\half_2021-06-15T10-38-56.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/137_penguins_braying/2bEQQ35Wkdc_31000_41000/half_2021-06-15T10-38-56_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\137_penguins_braying\2bEQQ35Wkdc_31000_41000\half_2021-06-15T10-38-56_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/169_pheasant_crowing/2dCFOYuetW0_39000_49000/half_2021-06-15T10-40-08.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\169_pheasant_crowing\2dCFOYuetW0_39000_49000\half_2021-06-15T10-40-08.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/169_pheasant_crowing/2dCFOYuetW0_39000_49000/half_2021-06-15T10-40-08_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\169_pheasant_crowing\2dCFOYuetW0_39000_49000\half_2021-06-15T10-40-08_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/174_playing_accordion/2bCuw7U_Rac_390000_400000/half_2021-06-15T10-38-41.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\174_playing_accordion\2bCuw7U_Rac_390000_400000\half_2021-06-15T10-38-41.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/174_playing_accordion/2bCuw7U_Rac_390000_400000/half_2021-06-15T10-38-41_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\174_playing_accordion\2bCuw7U_Rac_390000_400000\half_2021-06-15T10-38-41_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/197_playing_erhu/2cEM6Hu90v0_38000_48000/half_2021-06-15T10-39-29.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\197_playing_erhu\2cEM6Hu90v0_38000_48000\half_2021-06-15T10-39-29.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/197_playing_erhu/2cEM6Hu90v0_38000_48000/half_2021-06-15T10-39-29_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\197_playing_erhu\2cEM6Hu90v0_38000_48000\half_2021-06-15T10-39-29_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/237_playing_zither/2es7oZzwLWM_30000_40000/half_2021-06-15T10-42-48.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\237_playing_zither\2es7oZzwLWM_30000_40000\half_2021-06-15T10-42-48.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/237_playing_zither/2es7oZzwLWM_30000_40000/half_2021-06-15T10-42-48_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\237_playing_zither\2es7oZzwLWM_30000_40000\half_2021-06-15T10-42-48_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/267_slot_machine/2drXOn18U3Q_136000_146000/half_2021-06-15T10-40-29.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\267_slot_machine\2drXOn18U3Q_136000_146000\half_2021-06-15T10-40-29.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/267_slot_machine/2drXOn18U3Q_136000_146000/half_2021-06-15T10-40-29_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\267_slot_machine\2drXOn18U3Q_136000_146000\half_2021-06-15T10-40-29_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/272_spraying_water/2dBVv-HHhCc_4000_14000/half_2021-06-15T10-39-52.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\272_spraying_water\2dBVv-HHhCc_4000_14000\half_2021-06-15T10-39-52.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/half_gt/vggsound/272_spraying_water/2dBVv-HHhCc_4000_14000/half_2021-06-15T10-39-52_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\half_gt\vggsound\272_spraying_water\2dBVv-HHhCc_4000_14000\half_2021-06-15T10-39-52_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/harp.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\harp.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/lions_roaring.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\lions_roaring.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/neural_audio_codec/0_music1/lyra_3.0kbps.wav
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\neural_audio_codec\0_music1\lyra_3.0kbps.wav
+Content Type: audio/wav
+
+Uri: https://iashin.ai/images/specvqgan/neural_audio_codec/0_music1/original.wav
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\neural_audio_codec\0_music1\original.wav
+Content Type: audio/wav
+
+Uri: https://iashin.ai/images/specvqgan/neural_audio_codec/0_music1/soundstream_3.0kbps.wav
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\neural_audio_codec\0_music1\soundstream_3.0kbps.wav
+Content Type: audio/wav
+
+Uri: https://iashin.ai/images/specvqgan/neural_audio_codec/0_music1/specvqgan_0.26kbps.wav
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\neural_audio_codec\0_music1\specvqgan_0.26kbps.wav
+Content Type: audio/wav
+
+Uri: https://iashin.ai/images/specvqgan/neural_audio_codec/0_music2/lyra_3.0kbps.wav
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\neural_audio_codec\0_music2\lyra_3.0kbps.wav
+Content Type: audio/wav
+
+Uri: https://iashin.ai/images/specvqgan/neural_audio_codec/0_music2/original.wav
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\neural_audio_codec\0_music2\original.wav
+Content Type: audio/wav
+
+Uri: https://iashin.ai/images/specvqgan/neural_audio_codec/0_music2/soundstream_3.0kbps.wav
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\neural_audio_codec\0_music2\soundstream_3.0kbps.wav
+Content Type: audio/wav
+
+Uri: https://iashin.ai/images/specvqgan/neural_audio_codec/0_music2/specvqgan_0.26kbps.wav
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\neural_audio_codec\0_music2\specvqgan_0.26kbps.wav
+Content Type: audio/wav
+
+Uri: https://iashin.ai/images/specvqgan/neural_audio_codec/1_clean_speech1/lyra_3.0kbps.wav
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\neural_audio_codec\1_clean_speech1\lyra_3.0kbps.wav
+Content Type: audio/wav
+
+Uri: https://iashin.ai/images/specvqgan/neural_audio_codec/1_clean_speech1/original.wav
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\neural_audio_codec\1_clean_speech1\original.wav
+Content Type: audio/wav
+
+Uri: https://iashin.ai/images/specvqgan/neural_audio_codec/1_clean_speech1/soundstream_3.0kbps.wav
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\neural_audio_codec\1_clean_speech1\soundstream_3.0kbps.wav
+Content Type: audio/wav
+
+Uri: https://iashin.ai/images/specvqgan/neural_audio_codec/1_clean_speech1/specvqgan_0.26kbps.wav
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\neural_audio_codec\1_clean_speech1\specvqgan_0.26kbps.wav
+Content Type: audio/wav
+
+Uri: https://iashin.ai/images/specvqgan/neural_audio_codec/1_clean_speech2/lyra_3.0kbps.wav
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\neural_audio_codec\1_clean_speech2\lyra_3.0kbps.wav
+Content Type: audio/wav
+
+Uri: https://iashin.ai/images/specvqgan/neural_audio_codec/1_clean_speech2/original.wav
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\neural_audio_codec\1_clean_speech2\original.wav
+Content Type: audio/wav
+
+Uri: https://iashin.ai/images/specvqgan/neural_audio_codec/1_clean_speech2/soundstream_3.0kbps.wav
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\neural_audio_codec\1_clean_speech2\soundstream_3.0kbps.wav
+Content Type: audio/wav
+
+Uri: https://iashin.ai/images/specvqgan/neural_audio_codec/1_clean_speech2/specvqgan_0.26kbps.wav
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\neural_audio_codec\1_clean_speech2\specvqgan_0.26kbps.wav
+Content Type: audio/wav
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-38-19.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-38-19.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-38-19_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-38-19_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-38-33.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-38-33.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-38-33_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-38-33_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-38-48.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-38-48.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-38-48_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-38-48_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-39-02.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-39-02.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-39-02_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-39-02_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-39-16.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-39-16.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-39-16_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-39-16_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-39-30.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-39-30.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-39-30_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-39-30_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-39-44.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-39-44.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-39-44_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-39-44_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-39-59.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-39-59.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-39-59_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-39-59_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-40-14.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-40-14.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-40-14_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-40-14_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-40-28.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-40-28.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-40-28_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-40-28_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-40-42.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-40-42.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-40-42_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-40-42_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-40-56.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-40-56.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-40-56_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-40-56_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-41-11.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-41-11.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-41-11_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-41-11_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-41-25.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-41-25.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-41-25_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-41-25_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-43-16.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-43-16.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-43-16_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-43-16_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-43-32.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-43-32.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-43-32_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-43-32_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-43-47.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-43-47.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-43-47_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-43-47_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-44-02.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-44-02.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vas/nopix_2021-06-15T22-44-02_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vas\nopix_2021-06-15T22-44-02_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-29-56.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-29-56.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-29-56_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-29-56_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-30-24.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-30-24.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-30-24_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-30-24_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-30-40.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-30-40.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-30-40_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-30-40_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-30-57.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-30-57.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-30-57_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-30-57_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-31-14.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-31-14.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-31-14_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-31-14_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-31-41.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-31-41.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-31-41_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-31-41_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-31-56.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-31-56.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-31-56_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-31-56_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-32-11.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-32-11.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-32-11_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-32-11_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-32-25.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-32-25.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-32-25_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-32-25_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-32-44.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-32-44.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-32-44_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-32-44_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-32-58.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-32-58.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-32-58_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-32-58_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-33-20.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-33-20.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-33-20_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-33-20_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-33-45.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-33-45.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-33-45_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-33-45_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-34-12.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-34-12.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-34-12_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-34-12_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-35-18.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-35-18.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-35-18_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-35-18_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-35-31.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-35-31.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/no_feats/vggsound/nopix_2021-06-15T16-35-31_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\no_feats\vggsound\nopix_2021-06-15T16-35-31_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/overview_fig1.svg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\overview_fig1.svg
+Content Type: image/svg+xml
+
+Uri: https://iashin.ai/images/specvqgan/poster.pdf
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\poster.pdf
+Content Type: application/pdf
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/baby_gt.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\baby_gt.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/baby_vas.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\baby_vas.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/baby_vggsound.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\baby_vggsound.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/baby_video_01941_xrec_id8_vas_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\baby_video_01941_xrec_id8_vas_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/baby_video_01941_xrec_id8_vas_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\baby_video_01941_xrec_id8_vas_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/baby_video_01941_xrec_id8_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\baby_video_01941_xrec_id8_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/baby_video_01941_xrec_id8_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\baby_video_01941_xrec_id8_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/baby_video_01941_x_id8.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\baby_video_01941_x_id8.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/baby_video_01941_x_id8_x.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\baby_video_01941_x_id8_x.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/baby_video_02025_xrec_id92_vas_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\baby_video_02025_xrec_id92_vas_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/baby_video_02025_xrec_id92_vas_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\baby_video_02025_xrec_id92_vas_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/baby_video_02025_xrec_id92_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\baby_video_02025_xrec_id92_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/baby_video_02025_xrec_id92_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\baby_video_02025_xrec_id92_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/baby_video_02025_x_id92.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\baby_video_02025_x_id92.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/baby_video_02025_x_id92_x.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\baby_video_02025_x_id92_x.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/cough_video_00378_xrec_id191_vas_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\cough_video_00378_xrec_id191_vas_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/cough_video_00378_xrec_id191_vas_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\cough_video_00378_xrec_id191_vas_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/cough_video_00378_xrec_id191_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\cough_video_00378_xrec_id191_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/cough_video_00378_xrec_id191_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\cough_video_00378_xrec_id191_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/cough_video_00378_x_id191.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\cough_video_00378_x_id191.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/cough_video_00378_x_id191_x.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\cough_video_00378_x_id191_x.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/dog_gt.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\dog_gt.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/dog_vas.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\dog_vas.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/dog_vggsound.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\dog_vggsound.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/dog_video_02738_xrec_id273_vas_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\dog_video_02738_xrec_id273_vas_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/dog_video_02738_xrec_id273_vas_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\dog_video_02738_xrec_id273_vas_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/dog_video_02738_xrec_id273_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\dog_video_02738_xrec_id273_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/dog_video_02738_xrec_id273_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\dog_video_02738_xrec_id273_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/dog_video_02738_x_id273.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\dog_video_02738_x_id273.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/dog_video_02738_x_id273_x.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\dog_video_02738_x_id273_x.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/drum_video_02513_xrec_id355_vas_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\drum_video_02513_xrec_id355_vas_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/drum_video_02513_xrec_id355_vas_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\drum_video_02513_xrec_id355_vas_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/drum_video_02513_xrec_id355_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\drum_video_02513_xrec_id355_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/drum_video_02513_xrec_id355_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\drum_video_02513_xrec_id355_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/drum_video_02513_x_id355.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\drum_video_02513_x_id355.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/drum_video_02513_x_id355_x.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\drum_video_02513_x_id355_x.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/drum_video_02578_xrec_id420_vas_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\drum_video_02578_xrec_id420_vas_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/drum_video_02578_xrec_id420_vas_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\drum_video_02578_xrec_id420_vas_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/drum_video_02578_xrec_id420_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\drum_video_02578_xrec_id420_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/drum_video_02578_xrec_id420_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\drum_video_02578_xrec_id420_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/drum_video_02578_x_id420.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\drum_video_02578_x_id420.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/drum_video_02578_x_id420_x.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\drum_video_02578_x_id420_x.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/fireworks_video_03041_xrec_id502_vas_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\fireworks_video_03041_xrec_id502_vas_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/fireworks_video_03041_xrec_id502_vas_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\fireworks_video_03041_xrec_id502_vas_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/fireworks_video_03041_xrec_id502_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\fireworks_video_03041_xrec_id502_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/fireworks_video_03041_xrec_id502_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\fireworks_video_03041_xrec_id502_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/fireworks_video_03041_x_id502.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\fireworks_video_03041_x_id502.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/fireworks_video_03041_x_id502_x.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\fireworks_video_03041_x_id502_x.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/gun_video_00843_xrec_id617_vas_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\gun_video_00843_xrec_id617_vas_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/gun_video_00843_xrec_id617_vas_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\gun_video_00843_xrec_id617_vas_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/gun_video_00843_xrec_id617_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\gun_video_00843_xrec_id617_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/gun_video_00843_xrec_id617_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\gun_video_00843_xrec_id617_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/gun_video_00843_x_id617.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\gun_video_00843_x_id617.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/gun_video_00843_x_id617_x.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\gun_video_00843_x_id617_x.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/hammer_video_00334_xrec_id655_vas_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\hammer_video_00334_xrec_id655_vas_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/hammer_video_00334_xrec_id655_vas_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\hammer_video_00334_xrec_id655_vas_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/hammer_video_00334_xrec_id655_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\hammer_video_00334_xrec_id655_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/hammer_video_00334_xrec_id655_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\hammer_video_00334_xrec_id655_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/hammer_video_00334_x_id655.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\hammer_video_00334_x_id655.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/hammer_video_00334_x_id655_x.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\hammer_video_00334_x_id655_x.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/sneeze_video_00329_xrec_id751_vas_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\sneeze_video_00329_xrec_id751_vas_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/sneeze_video_00329_xrec_id751_vas_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\sneeze_video_00329_xrec_id751_vas_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/sneeze_video_00329_xrec_id751_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\sneeze_video_00329_xrec_id751_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/sneeze_video_00329_xrec_id751_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\sneeze_video_00329_xrec_id751_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/sneeze_video_00329_x_id751.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\sneeze_video_00329_x_id751.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/sneeze_video_00329_x_id751_x.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\sneeze_video_00329_x_id751_x.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/video_01962_xrec_id29_by2021-05-19T22-16-54_vggsound_specs_vqgan.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\video_01962_xrec_id29_by2021-05-19T22-16-54_vggsound_specs_vqgan.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/video_01962_xrec_id29_by2021-06-06T19-42-53_vas_specs_vqgan.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\video_01962_xrec_id29_by2021-06-06T19-42-53_vas_specs_vqgan.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/video_01962_x_id29.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\video_01962_x_id29.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/video_02783_xrec_id318_by2021-05-19T22-16-54_vggsound_specs_vqgan.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\video_02783_xrec_id318_by2021-05-19T22-16-54_vggsound_specs_vqgan.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/video_02783_xrec_id318_by2021-06-06T19-42-53_vas_specs_vqgan.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\video_02783_xrec_id318_by2021-06-06T19-42-53_vas_specs_vqgan.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vas/video_02783_x_id318.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vas\video_02783_x_id318.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/2pHfgh_G1yo_10000_20000_xrec_id1051_by2021-05-19T22-16-54_vggsound_specs_vqgan.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\2pHfgh_G1yo_10000_20000_xrec_id1051_by2021-05-19T22-16-54_vggsound_specs_vqgan.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/2pHfgh_G1yo_10000_20000_x_id1051.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\2pHfgh_G1yo_10000_20000_x_id1051.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/canary_calling_n4jf0RXGw7I_19000_29000_xrec_id12298_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\canary_calling_n4jf0RXGw7I_19000_29000_xrec_id12298_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/canary_calling_n4jf0RXGw7I_19000_29000_xrec_id12298_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\canary_calling_n4jf0RXGw7I_19000_29000_xrec_id12298_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/canary_calling_n4jf0RXGw7I_19000_29000_x_id12298.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\canary_calling_n4jf0RXGw7I_19000_29000_x_id12298.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/canary_calling_n4jf0RXGw7I_19000_29000_x_id12298.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\canary_calling_n4jf0RXGw7I_19000_29000_x_id12298.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/child_speech__kid_speaking_40AD_oH9eCU_30000_40000_xrec_id1378_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\child_speech__kid_speaking_40AD_oH9eCU_30000_40000_xrec_id1378_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/child_speech__kid_speaking_40AD_oH9eCU_30000_40000_xrec_id1378_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\child_speech__kid_speaking_40AD_oH9eCU_30000_40000_xrec_id1378_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/child_speech__kid_speaking_40AD_oH9eCU_30000_40000_x_id1378.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\child_speech__kid_speaking_40AD_oH9eCU_30000_40000_x_id1378.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/child_speech__kid_speaking_40AD_oH9eCU_30000_40000_x_id1378.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\child_speech__kid_speaking_40AD_oH9eCU_30000_40000_x_id1378.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/chimpanzee_pant-hooting_gXDltX0l33E_5000_15000_xrec_id10902_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\chimpanzee_pant-hooting_gXDltX0l33E_5000_15000_xrec_id10902_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/chimpanzee_pant-hooting_gXDltX0l33E_5000_15000_x_id10902.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\chimpanzee_pant-hooting_gXDltX0l33E_5000_15000_x_id10902.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/chimpanzee_pant-hooting_gXDltX0l33E_5000_15000_x_id10902.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\chimpanzee_pant-hooting_gXDltX0l33E_5000_15000_x_id10902.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/chopping_food_LnVxCibEqko_53000_63000_xrec_id5899_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\chopping_food_LnVxCibEqko_53000_63000_xrec_id5899_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/chopping_food_LnVxCibEqko_53000_63000_xrec_id5899_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\chopping_food_LnVxCibEqko_53000_63000_xrec_id5899_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/chopping_food_LnVxCibEqko_53000_63000_x_id5899.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\chopping_food_LnVxCibEqko_53000_63000_x_id5899.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/chopping_food_LnVxCibEqko_53000_63000_x_id5899.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\chopping_food_LnVxCibEqko_53000_63000_x_id5899.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/civil_defense_siren_C9LzJZ1PpL0_0_10000_xrec_id3456_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\civil_defense_siren_C9LzJZ1PpL0_0_10000_xrec_id3456_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/civil_defense_siren_C9LzJZ1PpL0_0_10000_xrec_id3456_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\civil_defense_siren_C9LzJZ1PpL0_0_10000_xrec_id3456_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/civil_defense_siren_C9LzJZ1PpL0_0_10000_x_id3456.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\civil_defense_siren_C9LzJZ1PpL0_0_10000_x_id3456.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/civil_defense_siren_C9LzJZ1PpL0_0_10000_x_id3456.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\civil_defense_siren_C9LzJZ1PpL0_0_10000_x_id3456.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/djembe_gt.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\djembe_gt.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/djembe_vggsound.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\djembe_vggsound.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/dog_whimpering_PVSHN_arz2k_21000_31000_xrec_id6777_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\dog_whimpering_PVSHN_arz2k_21000_31000_xrec_id6777_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/dog_whimpering_PVSHN_arz2k_21000_31000_xrec_id6777_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\dog_whimpering_PVSHN_arz2k_21000_31000_xrec_id6777_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/dog_whimpering_PVSHN_arz2k_21000_31000_x_id6777.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\dog_whimpering_PVSHN_arz2k_21000_31000_x_id6777.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/dog_whimpering_PVSHN_arz2k_21000_31000_x_id6777.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\dog_whimpering_PVSHN_arz2k_21000_31000_x_id6777.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/door_slamming_Cvwyf4tOrqc_30000_40000_xrec_id3667_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\door_slamming_Cvwyf4tOrqc_30000_40000_xrec_id3667_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/door_slamming_Cvwyf4tOrqc_30000_40000_xrec_id3667_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\door_slamming_Cvwyf4tOrqc_30000_40000_xrec_id3667_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/door_slamming_Cvwyf4tOrqc_30000_40000_x_id3667.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\door_slamming_Cvwyf4tOrqc_30000_40000_x_id3667.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/door_slamming_Cvwyf4tOrqc_30000_40000_x_id3667.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\door_slamming_Cvwyf4tOrqc_30000_40000_x_id3667.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/eating_with_cutlery_dy7klgwlfNs_280000_290000_xrec_id10335_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\eating_with_cutlery_dy7klgwlfNs_280000_290000_xrec_id10335_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/eating_with_cutlery_dy7klgwlfNs_280000_290000_xrec_id10335_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\eating_with_cutlery_dy7klgwlfNs_280000_290000_xrec_id10335_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/eating_with_cutlery_dy7klgwlfNs_280000_290000_x_id10335.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\eating_with_cutlery_dy7klgwlfNs_280000_290000_x_id10335.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/eating_with_cutlery_dy7klgwlfNs_280000_290000_x_id10335.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\eating_with_cutlery_dy7klgwlfNs_280000_290000_x_id10335.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/electric_grinder_grinding_D9yNCDer4YM_94000_104000_xrec_id3725_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\electric_grinder_grinding_D9yNCDer4YM_94000_104000_xrec_id3725_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/electric_grinder_grinding_D9yNCDer4YM_94000_104000_xrec_id3725_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\electric_grinder_grinding_D9yNCDer4YM_94000_104000_xrec_id3725_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/electric_grinder_grinding_D9yNCDer4YM_94000_104000_x_id3725.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\electric_grinder_grinding_D9yNCDer4YM_94000_104000_x_id3725.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/electric_grinder_grinding_D9yNCDer4YM_94000_104000_x_id3725.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\electric_grinder_grinding_D9yNCDer4YM_94000_104000_x_id3725.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/eletric_blender_running_E67DLGqXPMo_200000_210000_xrec_id3989_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\eletric_blender_running_E67DLGqXPMo_200000_210000_xrec_id3989_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/eletric_blender_running_E67DLGqXPMo_200000_210000_xrec_id3989_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\eletric_blender_running_E67DLGqXPMo_200000_210000_xrec_id3989_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/eletric_blender_running_E67DLGqXPMo_200000_210000_x_id3989.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\eletric_blender_running_E67DLGqXPMo_200000_210000_x_id3989.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/eletric_blender_running_E67DLGqXPMo_200000_210000_x_id3989.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\eletric_blender_running_E67DLGqXPMo_200000_210000_x_id3989.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/golf_driving_hekfjJRfSXM_32000_42000_xrec_id11146_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\golf_driving_hekfjJRfSXM_32000_42000_xrec_id11146_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/golf_driving_hekfjJRfSXM_32000_42000_xrec_id11146_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\golf_driving_hekfjJRfSXM_32000_42000_xrec_id11146_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/golf_driving_hekfjJRfSXM_32000_42000_x_id11146.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\golf_driving_hekfjJRfSXM_32000_42000_x_id11146.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/golf_driving_hekfjJRfSXM_32000_42000_x_id11146.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\golf_driving_hekfjJRfSXM_32000_42000_x_id11146.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/ice_cracking_PxpGb6RozhI_24000_34000_xrec_id6888_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\ice_cracking_PxpGb6RozhI_24000_34000_xrec_id6888_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/ice_cracking_PxpGb6RozhI_24000_34000_xrec_id6888_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\ice_cracking_PxpGb6RozhI_24000_34000_xrec_id6888_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/ice_cracking_PxpGb6RozhI_24000_34000_x_id6888.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\ice_cracking_PxpGb6RozhI_24000_34000_x_id6888.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/ice_cracking_PxpGb6RozhI_24000_34000_x_id6888.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\ice_cracking_PxpGb6RozhI_24000_34000_x_id6888.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/magpie_calling_od5QuiFX8P4_46000_56000_xrec_id12607_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\magpie_calling_od5QuiFX8P4_46000_56000_xrec_id12607_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/magpie_calling_od5QuiFX8P4_46000_56000_xrec_id12607_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\magpie_calling_od5QuiFX8P4_46000_56000_xrec_id12607_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/magpie_calling_od5QuiFX8P4_46000_56000_x_id12607.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\magpie_calling_od5QuiFX8P4_46000_56000_x_id12607.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/magpie_calling_od5QuiFX8P4_46000_56000_x_id12607.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\magpie_calling_od5QuiFX8P4_46000_56000_x_id12607.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/mouse_pattering_oYYd7duzdBY_30000_40000_xrec_id12591_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\mouse_pattering_oYYd7duzdBY_30000_40000_xrec_id12591_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/mouse_pattering_oYYd7duzdBY_30000_40000_xrec_id12591_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\mouse_pattering_oYYd7duzdBY_30000_40000_xrec_id12591_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/mouse_pattering_oYYd7duzdBY_30000_40000_x_id12591.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\mouse_pattering_oYYd7duzdBY_30000_40000_x_id12591.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/mouse_pattering_oYYd7duzdBY_30000_40000_x_id12591.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\mouse_pattering_oYYd7duzdBY_30000_40000_x_id12591.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/opening_or_closing_drawers_61T8j-vXtnA_430000_440000_xrec_id1866_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\opening_or_closing_drawers_61T8j-vXtnA_430000_440000_xrec_id1866_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/opening_or_closing_drawers_61T8j-vXtnA_430000_440000_xrec_id1866_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\opening_or_closing_drawers_61T8j-vXtnA_430000_440000_xrec_id1866_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/opening_or_closing_drawers_61T8j-vXtnA_430000_440000_x_id1866.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\opening_or_closing_drawers_61T8j-vXtnA_430000_440000_x_id1866.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/opening_or_closing_drawers_61T8j-vXtnA_430000_440000_x_id1866.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\opening_or_closing_drawers_61T8j-vXtnA_430000_440000_x_id1866.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/people_belly_laughing_sWXpzTZWNAI_30000_40000_xrec_id13348_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\people_belly_laughing_sWXpzTZWNAI_30000_40000_xrec_id13348_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/people_belly_laughing_sWXpzTZWNAI_30000_40000_xrec_id13348_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\people_belly_laughing_sWXpzTZWNAI_30000_40000_xrec_id13348_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/people_belly_laughing_sWXpzTZWNAI_30000_40000_x_id13348.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\people_belly_laughing_sWXpzTZWNAI_30000_40000_x_id13348.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/people_belly_laughing_sWXpzTZWNAI_30000_40000_x_id13348.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\people_belly_laughing_sWXpzTZWNAI_30000_40000_x_id13348.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/people_sneezing_LspJN_1R27Q_30000_40000_xrec_id5913_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\people_sneezing_LspJN_1R27Q_30000_40000_xrec_id5913_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/people_sneezing_LspJN_1R27Q_30000_40000_xrec_id5913_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\people_sneezing_LspJN_1R27Q_30000_40000_xrec_id5913_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/people_sneezing_LspJN_1R27Q_30000_40000_x_id5913.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\people_sneezing_LspJN_1R27Q_30000_40000_x_id5913.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/people_sneezing_LspJN_1R27Q_30000_40000_x_id5913.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\people_sneezing_LspJN_1R27Q_30000_40000_x_id5913.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/pjuyGQPd4S4_39000_49000_xrec_id12804_by2021-05-19T22-16-54_vggsound_specs_vqgan.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\pjuyGQPd4S4_39000_49000_xrec_id12804_by2021-05-19T22-16-54_vggsound_specs_vqgan.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/pjuyGQPd4S4_39000_49000_x_id12804.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\pjuyGQPd4S4_39000_49000_x_id12804.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_bagpipes_WAztA-Iqb4g_30000_40000_xrec_id8313_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_bagpipes_WAztA-Iqb4g_30000_40000_xrec_id8313_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_bagpipes_WAztA-Iqb4g_30000_40000_xrec_id8313_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_bagpipes_WAztA-Iqb4g_30000_40000_xrec_id8313_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_bagpipes_WAztA-Iqb4g_30000_40000_x_id8313.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_bagpipes_WAztA-Iqb4g_30000_40000_x_id8313.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_bagpipes_WAztA-Iqb4g_30000_40000_x_id8313.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_bagpipes_WAztA-Iqb4g_30000_40000_x_id8313.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_castanets_-Zl_ZkDmZHE_0_10000_xrec_id147_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_castanets_-Zl_ZkDmZHE_0_10000_xrec_id147_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_castanets_-Zl_ZkDmZHE_0_10000_xrec_id147_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_castanets_-Zl_ZkDmZHE_0_10000_xrec_id147_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_castanets_-Zl_ZkDmZHE_0_10000_x_id147.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_castanets_-Zl_ZkDmZHE_0_10000_x_id147.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_castanets_-Zl_ZkDmZHE_0_10000_x_id147.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_castanets_-Zl_ZkDmZHE_0_10000_x_id147.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_clarinet_LMfD-ZsuzOU_30000_40000_xrec_id5787_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_clarinet_LMfD-ZsuzOU_30000_40000_xrec_id5787_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_clarinet_LMfD-ZsuzOU_30000_40000_xrec_id5787_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_clarinet_LMfD-ZsuzOU_30000_40000_xrec_id5787_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_clarinet_LMfD-ZsuzOU_30000_40000_x_id5787.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_clarinet_LMfD-ZsuzOU_30000_40000_x_id5787.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_clarinet_LMfD-ZsuzOU_30000_40000_x_id5787.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_clarinet_LMfD-ZsuzOU_30000_40000_x_id5787.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_flute_O7puBCRI2Bc_30000_40000_xrec_id6484_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_flute_O7puBCRI2Bc_30000_40000_xrec_id6484_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_flute_O7puBCRI2Bc_30000_40000_xrec_id6484_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_flute_O7puBCRI2Bc_30000_40000_xrec_id6484_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_flute_O7puBCRI2Bc_30000_40000_x_id6484.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_flute_O7puBCRI2Bc_30000_40000_x_id6484.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_flute_O7puBCRI2Bc_30000_40000_x_id6484.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_flute_O7puBCRI2Bc_30000_40000_x_id6484.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_mandolin_O0sDg-yLvlE_30000_40000_xrec_id6455_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_mandolin_O0sDg-yLvlE_30000_40000_xrec_id6455_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_mandolin_O0sDg-yLvlE_30000_40000_xrec_id6455_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_mandolin_O0sDg-yLvlE_30000_40000_xrec_id6455_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_mandolin_O0sDg-yLvlE_30000_40000_x_id6455.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_mandolin_O0sDg-yLvlE_30000_40000_x_id6455.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_mandolin_O0sDg-yLvlE_30000_40000_x_id6455.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_mandolin_O0sDg-yLvlE_30000_40000_x_id6455.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_snare_drum_iAK8xAOUob8_297000_307000_xrec_id11254_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_snare_drum_iAK8xAOUob8_297000_307000_xrec_id11254_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_snare_drum_iAK8xAOUob8_297000_307000_xrec_id11254_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_snare_drum_iAK8xAOUob8_297000_307000_xrec_id11254_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_snare_drum_iAK8xAOUob8_297000_307000_x_id11254.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_snare_drum_iAK8xAOUob8_297000_307000_x_id11254.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_snare_drum_iAK8xAOUob8_297000_307000_x_id11254.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_snare_drum_iAK8xAOUob8_297000_307000_x_id11254.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_synthesizer_SkIDF7iNJQE_30000_40000_xrec_id7558_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_synthesizer_SkIDF7iNJQE_30000_40000_xrec_id7558_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_synthesizer_SkIDF7iNJQE_30000_40000_xrec_id7558_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_synthesizer_SkIDF7iNJQE_30000_40000_xrec_id7558_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_synthesizer_SkIDF7iNJQE_30000_40000_x_id7558.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_synthesizer_SkIDF7iNJQE_30000_40000_x_id7558.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_synthesizer_SkIDF7iNJQE_30000_40000_x_id7558.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_synthesizer_SkIDF7iNJQE_30000_40000_x_id7558.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_tympani_U2Fuor5iG98_68000_78000_xrec_id7827_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_tympani_U2Fuor5iG98_68000_78000_xrec_id7827_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_tympani_U2Fuor5iG98_68000_78000_xrec_id7827_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_tympani_U2Fuor5iG98_68000_78000_xrec_id7827_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_tympani_U2Fuor5iG98_68000_78000_x_id7827.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_tympani_U2Fuor5iG98_68000_78000_x_id7827.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_tympani_U2Fuor5iG98_68000_78000_x_id7827.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_tympani_U2Fuor5iG98_68000_78000_x_id7827.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_vibraphone_7rzEesL55fM_340000_350000_xrec_id2341_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_vibraphone_7rzEesL55fM_340000_350000_xrec_id2341_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_vibraphone_7rzEesL55fM_340000_350000_xrec_id2341_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_vibraphone_7rzEesL55fM_340000_350000_xrec_id2341_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_vibraphone_7rzEesL55fM_340000_350000_x_id2341.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_vibraphone_7rzEesL55fM_340000_350000_x_id2341.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/playing_vibraphone_7rzEesL55fM_340000_350000_x_id2341.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\playing_vibraphone_7rzEesL55fM_340000_350000_x_id2341.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/police_car_(siren)_84b7NrzJWiI_420000_430000_xrec_id2379_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\police_car_(siren)_84b7NrzJWiI_420000_430000_xrec_id2379_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/police_car_(siren)_84b7NrzJWiI_420000_430000_xrec_id2379_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\police_car_(siren)_84b7NrzJWiI_420000_430000_xrec_id2379_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/police_car_(siren)_84b7NrzJWiI_420000_430000_x_id2379.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\police_car_(siren)_84b7NrzJWiI_420000_430000_x_id2379.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/police_car_(siren)_84b7NrzJWiI_420000_430000_x_id2379.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\police_car_(siren)_84b7NrzJWiI_420000_430000_x_id2379.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/roller_coaster_running_aMDAoaCyB1c_73000_83000_xrec_id9529_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\roller_coaster_running_aMDAoaCyB1c_73000_83000_xrec_id9529_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/roller_coaster_running_aMDAoaCyB1c_73000_83000_xrec_id9529_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\roller_coaster_running_aMDAoaCyB1c_73000_83000_xrec_id9529_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/roller_coaster_running_aMDAoaCyB1c_73000_83000_x_id9529.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\roller_coaster_running_aMDAoaCyB1c_73000_83000_x_id9529.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/roller_coaster_running_aMDAoaCyB1c_73000_83000_x_id9529.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\roller_coaster_running_aMDAoaCyB1c_73000_83000_x_id9529.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/shot_football_k7rGUmOV6wQ_261000_271000_xrec_id11658_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\shot_football_k7rGUmOV6wQ_261000_271000_xrec_id11658_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/shot_football_k7rGUmOV6wQ_261000_271000_xrec_id11658_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\shot_football_k7rGUmOV6wQ_261000_271000_xrec_id11658_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/shot_football_k7rGUmOV6wQ_261000_271000_x_id11658.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\shot_football_k7rGUmOV6wQ_261000_271000_x_id11658.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/shot_football_k7rGUmOV6wQ_261000_271000_x_id11658.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\shot_football_k7rGUmOV6wQ_261000_271000_x_id11658.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/siren_gt.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\siren_gt.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/siren_vggsound.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\siren_vggsound.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/slot_machine_nXY2Vrfm0vY_1000_11000_xrec_id12383_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\slot_machine_nXY2Vrfm0vY_1000_11000_xrec_id12383_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/slot_machine_nXY2Vrfm0vY_1000_11000_xrec_id12383_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\slot_machine_nXY2Vrfm0vY_1000_11000_xrec_id12383_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/slot_machine_nXY2Vrfm0vY_1000_11000_x_id12383.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\slot_machine_nXY2Vrfm0vY_1000_11000_x_id12383.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/slot_machine_nXY2Vrfm0vY_1000_11000_x_id12383.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\slot_machine_nXY2Vrfm0vY_1000_11000_x_id12383.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/spraying_water_aUVT2tUbPN8_187000_197000_xrec_id9562_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\spraying_water_aUVT2tUbPN8_187000_197000_xrec_id9562_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/spraying_water_aUVT2tUbPN8_187000_197000_xrec_id9562_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\spraying_water_aUVT2tUbPN8_187000_197000_xrec_id9562_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/spraying_water_aUVT2tUbPN8_187000_197000_x_id9562.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\spraying_water_aUVT2tUbPN8_187000_197000_x_id9562.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/spraying_water_aUVT2tUbPN8_187000_197000_x_id9562.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\spraying_water_aUVT2tUbPN8_187000_197000_x_id9562.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/tap_dancing_MPW-geOjDG4_197000_207000_xrec_id6065_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\tap_dancing_MPW-geOjDG4_197000_207000_xrec_id6065_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/tap_dancing_MPW-geOjDG4_197000_207000_xrec_id6065_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\tap_dancing_MPW-geOjDG4_197000_207000_xrec_id6065_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/tap_dancing_MPW-geOjDG4_197000_207000_x_id6065.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\tap_dancing_MPW-geOjDG4_197000_207000_x_id6065.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/tap_dancing_MPW-geOjDG4_197000_207000_x_id6065.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\tap_dancing_MPW-geOjDG4_197000_207000_x_id6065.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/whale_calling_jLQQ2JX6pcM_8000_18000_xrec_id11510_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\whale_calling_jLQQ2JX6pcM_8000_18000_xrec_id11510_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/whale_calling_jLQQ2JX6pcM_8000_18000_xrec_id11510_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\whale_calling_jLQQ2JX6pcM_8000_18000_xrec_id11510_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/whale_calling_jLQQ2JX6pcM_8000_18000_x_id11510.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\whale_calling_jLQQ2JX6pcM_8000_18000_x_id11510.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/whale_calling_jLQQ2JX6pcM_8000_18000_x_id11510.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\whale_calling_jLQQ2JX6pcM_8000_18000_x_id11510.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/woodpecker_pecking_tree_eoWx7tqlCc0_260000_270000_xrec_id10497_vggsound_vqgan.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\woodpecker_pecking_tree_eoWx7tqlCc0_260000_270000_xrec_id10497_vggsound_vqgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/woodpecker_pecking_tree_eoWx7tqlCc0_260000_270000_xrec_id10497_vggsound_vqgan.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\woodpecker_pecking_tree_eoWx7tqlCc0_260000_270000_xrec_id10497_vggsound_vqgan.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/woodpecker_pecking_tree_eoWx7tqlCc0_260000_270000_x_id10497.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\woodpecker_pecking_tree_eoWx7tqlCc0_260000_270000_x_id10497.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/reconstructions/vggsound/woodpecker_pecking_tree_eoWx7tqlCc0_260000_270000_x_id10497.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\reconstructions\vggsound\woodpecker_pecking_tree_eoWx7tqlCc0_260000_270000_x_id10497.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/ours_baby_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\ours_baby_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/ours_baby_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\ours_baby_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/ours_dog_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\ours_dog_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/ours_dog_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\ours_dog_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/ours_drum_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\ours_drum_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/ours_drum_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\ours_drum_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/ours_fireworks_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\ours_fireworks_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/ours_fireworks_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\ours_fireworks_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/regnet_baby_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\regnet_baby_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/regnet_baby_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\regnet_baby_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/regnet_dog_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\regnet_dog_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/regnet_dog_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\regnet_dog_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/regnet_drum_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\regnet_drum_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/regnet_drum_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\regnet_drum_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/regnet_fireworks_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\regnet_fireworks_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/regnet_fireworks_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\regnet_fireworks_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/Screenshot 2021-06-28 at 19.34.02.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\Screenshot 2021-06-28 at 19.34.02.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/Screenshot 2021-06-28 at 19.34.08.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\Screenshot 2021-06-28 at 19.34.08.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/Screenshot 2021-06-28 at 19.34.12.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\Screenshot 2021-06-28 at 19.34.12.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/Screenshot 2021-06-28 at 19.34.15.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\Screenshot 2021-06-28 at 19.34.15.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/Screenshot 2021-06-28 at 20.01.30.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\Screenshot 2021-06-28 at 20.01.30.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/Screenshot 2021-06-28 at 20.01.34.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\Screenshot 2021-06-28 at 20.01.34.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/Screenshot 2021-06-28 at 20.01.37.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\Screenshot 2021-06-28 at 20.01.37.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/Screenshot 2021-06-28 at 20.01.39.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\Screenshot 2021-06-28 at 20.01.39.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/Screenshot 2021-06-28 at 20.16.47.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\Screenshot 2021-06-28 at 20.16.47.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/Screenshot 2021-06-28 at 20.16.50.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\Screenshot 2021-06-28 at 20.16.50.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/Screenshot 2021-06-28 at 20.16.55.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\Screenshot 2021-06-28 at 20.16.55.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/Screenshot 2021-06-28 at 20.16.59.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\Screenshot 2021-06-28 at 20.16.59.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/Screenshot 2021-06-28 at 21.04.17.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\Screenshot 2021-06-28 at 21.04.17.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/Screenshot 2021-06-28 at 21.04.30.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\Screenshot 2021-06-28 at 21.04.30.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/Screenshot 2021-06-28 at 21.04.32.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\Screenshot 2021-06-28 at 21.04.32.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/regnet_comparison/Screenshot 2021-06-28 at 21.04.35.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\regnet_comparison\Screenshot 2021-06-28 at 21.04.35.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/relevance_per_class.svg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\relevance_per_class.svg
+Content Type: image/svg+xml
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/baby_crying_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\baby_crying_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/baby_crying_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\baby_crying_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/chainsawing_trees_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\chainsawing_trees_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/chainsawing_trees_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\chainsawing_trees_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/cough_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\cough_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/cough_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\cough_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/dog_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\dog_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/dog_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\dog_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/drum_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\drum_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/drum_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\drum_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/female.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\female.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/fireworks_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\fireworks_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/fireworks_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\fireworks_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/gun_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\gun_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/gun_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\gun_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/hammer_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\hammer_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/hammer_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\hammer_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/nopix_2021-06-18T11-58-33.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\nopix_2021-06-18T11-58-33.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/people_cheering_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\people_cheering_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/people_cheering_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\people_cheering_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/playing_bongo_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\playing_bongo_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/playing_bongo_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\playing_bongo_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/ripping_paper_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\ripping_paper_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/ripping_paper_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\ripping_paper_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-19 at 12.18.59.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-19 at 12.18.59.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-19 at 12.20.57.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-19 at 12.20.57.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-19 at 12.22.09.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-19 at 12.22.09.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-19 at 12.22.20.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-19 at 12.22.20.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-27 at 20.57.51.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-27 at 20.57.51.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-27 at 20.58.26.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-27 at 20.58.26.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-27 at 20.58.28.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-27 at 20.58.28.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-27 at 20.58.48.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-27 at 20.58.48.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-27 at 21.53.29.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-27 at 21.53.29.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-27 at 21.53.32.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-27 at 21.53.32.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-27 at 21.53.41.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-27 at 21.53.41.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-27 at 21.53.53.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-27 at 21.53.53.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-27 at 21.55.43.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-27 at 21.55.43.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-27 at 21.55.52.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-27 at 21.55.52.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-27 at 21.55.56.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-27 at 21.55.56.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-27 at 21.55.59.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-27 at 21.55.59.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-27 at 22.24.10.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-27 at 22.24.10.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-27 at 22.24.18.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-27 at 22.24.18.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-27 at 22.24.22.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-27 at 22.24.22.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-27 at 22.24.29.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-27 at 22.24.29.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 08.39.29.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 08.39.29.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 08.39.35.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 08.39.35.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 08.39.39.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 08.39.39.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 08.39.55.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 08.39.55.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 08.41.30.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 08.41.30.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 08.41.35.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 08.41.35.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 08.41.37.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 08.41.37.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 08.41.47.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 08.41.47.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 11.34.42.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 11.34.42.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 11.34.52.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 11.34.52.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 11.34.57.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 11.34.57.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 11.35.00.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 11.35.00.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 14.58.39.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 14.58.39.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 14.58.45.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 14.58.45.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 14.59.02.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 14.59.02.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 14.59.21.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 14.59.21.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 15.00.27.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 15.00.27.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 15.00.30.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 15.00.30.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 15.00.33.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 15.00.33.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 15.00.45.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 15.00.45.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 15.01.46.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 15.01.46.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 15.01.48.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 15.01.48.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 15.01.52.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 15.01.52.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 15.02.10.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 15.02.10.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 15.03.59.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 15.03.59.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 15.04.04.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 15.04.04.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 15.04.15.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 15.04.15.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 15.04.21.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 15.04.21.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 15.05.40.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 15.05.40.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 15.05.44.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 15.05.44.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 15.05.47.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 15.05.47.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/Screenshot 2021-06-28 at 15.06.11.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\Screenshot 2021-06-28 at 15.06.11.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/wind_chime_audio.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\wind_chime_audio.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/sampling_results/wind_chime_spec.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\sampling_results\wind_chime_spec.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/topx/-JUBdOr8Hes_30000_40000_gt.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\-JUBdOr8Hes_30000_40000_gt.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/topx/-JUBdOr8Hes_30000_40000_gt_rec.jpg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\-JUBdOr8Hes_30000_40000_gt_rec.jpg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/topx/kl_fid_trade_off_bninception_vggsound.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\kl_fid_trade_off_bninception_vggsound.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-14-42.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-14-42.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-14-42_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-14-42_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-15-36.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-15-36.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-15-36_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-15-36_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-15-59.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-15-59.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-15-59_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-15-59_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-16-18.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-16-18.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-16-18_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-16-18_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-16-43.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-16-43.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-16-43_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-16-43_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-17-08.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-17-08.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-17-08_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-17-08_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-17-49.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-17-49.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-17-49_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-17-49_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-18-07.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-18-07.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-18-07_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-18-07_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-18-33.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-18-33.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-18-33_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-18-33_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-19-00.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-19-00.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-19-00_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-19-00_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-19-22.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-19-22.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/topx/nopix_2021-06-16T09-19-22_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\nopix_2021-06-16T09-19-22_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/topx/Screenshot 2021-06-16 at 21.38.06.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\Screenshot 2021-06-16 at 21.38.06.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/topx/Screenshot 2021-06-16 at 21.38.09.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\Screenshot 2021-06-16 at 21.38.09.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/topx/Screenshot 2021-06-16 at 21.38.16.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\Screenshot 2021-06-16 at 21.38.16.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/topx/Screenshot 2021-06-16 at 21.38.19.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\topx\Screenshot 2021-06-16 at 21.38.19.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/transformer.svg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\transformer.svg
+Content Type: image/svg+xml
+
+Uri: https://iashin.ai/images/specvqgan/transformer_upto_decoder.svg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\transformer_upto_decoder.svg
+Content Type: image/svg+xml
+
+Uri: https://iashin.ai/images/specvqgan/variability/nopix_2021-06-16T11-18-20.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\variability\nopix_2021-06-16T11-18-20.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/variability/nopix_2021-06-16T11-18-20_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\variability\nopix_2021-06-16T11-18-20_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/variability/nopix_2021-06-16T11-18-51.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\variability\nopix_2021-06-16T11-18-51.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/variability/nopix_2021-06-16T11-18-51_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\variability\nopix_2021-06-16T11-18-51_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/variability/nopix_2021-06-16T11-19-21.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\variability\nopix_2021-06-16T11-19-21.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/variability/nopix_2021-06-16T11-19-21_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\variability\nopix_2021-06-16T11-19-21_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/variability/nopix_2021-06-16T11-19-50.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\variability\nopix_2021-06-16T11-19-50.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/variability/nopix_2021-06-16T11-19-50_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\variability\nopix_2021-06-16T11-19-50_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/variability/nopix_2021-06-16T11-20-05.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\variability\nopix_2021-06-16T11-20-05.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/variability/nopix_2021-06-16T11-20-05_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\variability\nopix_2021-06-16T11-20-05_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/variability/nopix_2021-06-16T11-20-50.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\variability\nopix_2021-06-16T11-20-50.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/variability/nopix_2021-06-16T11-20-50_vocoder.mp3
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\variability\nopix_2021-06-16T11-20-50_vocoder.mp3
+Content Type: audio/mp3
+
+Uri: https://iashin.ai/images/specvqgan/variability/Screenshot 2021-06-16 at 11.24.35.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\variability\Screenshot 2021-06-16 at 11.24.35.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/variability/Screenshot 2021-06-16 at 11.24.45.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\variability\Screenshot 2021-06-16 at 11.24.45.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/variability/Screenshot 2021-06-16 at 11.24.48.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\variability\Screenshot 2021-06-16 at 11.24.48.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan/variability/Screenshot 2021-06-16 at 11.24.51.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan\variability\Screenshot 2021-06-16 at 11.24.51.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/specvqgan_in.svg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan_in.svg
+Content Type: image/svg+xml
+
+Uri: https://iashin.ai/images/specvqgan_out.svg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\specvqgan_out.svg
+Content Type: image/svg+xml
+
+Uri: https://iashin.ai/images/sync_in.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\sync_in.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/sync_out.png
+File Name: C:\Downloaded Web Sites\iashin.ai\images\sync_out.png
+Content Type: image/png
+
+Uri: https://iashin.ai/images/typical_russian_day_orig.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\typical_russian_day_orig.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/typical_russian_day_res.jpeg
+File Name: C:\Downloaded Web Sites\iashin.ai\images\typical_russian_day_res.jpeg
+Content Type: image/jpeg
+
+Uri: https://iashin.ai/images/video_features/main.gif
+File Name: C:\Downloaded Web Sites\iashin.ai\images\video_features\main.gif
+Content Type: image/gif
+
+Uri: https://iashin.ai/images/video_features/vid_feats.gif
+File Name: C:\Downloaded Web Sites\iashin.ai\images\video_features\vid_feats.gif
+Content Type: image/gif
+
+Uri: https://iashin.ai/index.html
+File Name: C:\Downloaded Web Sites\iashin.ai\index.html
+Content Type: text/html
+
+Uri: https://iashin.ai/js/status_checker.js
+File Name: C:\Downloaded Web Sites\iashin.ai\js\status_checker.js
+Content Type: application/javascript
+
+Uri: https://iashin.ai/js/upload_handler.js
+File Name: C:\Downloaded Web Sites\iashin.ai\js\upload_handler.js
+Content Type: application/javascript
+
+Uri: https://iashin.ai/mdvc.html
+File Name: C:\Downloaded Web Sites\iashin.ai\mdvc.html
+Content Type: text/html
+
+Uri: https://iashin.ai/SparseSync.html
+File Name: C:\Downloaded Web Sites\iashin.ai\SparseSync.html
+Content Type: text/html
+
+Uri: https://iashin.ai/SpecVQGAN.html
+File Name: C:\Downloaded Web Sites\iashin.ai\SpecVQGAN.html
+Content Type: text/html
+
+Uri: https://iashin.ai/video_features/
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\index.htm
+Content Type: text/html
+
+Uri: https://iashin.ai/video_features/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://iashin.ai/video_features/assets/javascripts/bundle.39f04ddb.min.js
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\assets\javascripts\bundle.39f04ddb.min.js
+Content Type: application/javascript
+
+Uri: https://iashin.ai/video_features/assets/stylesheets/main.9f9400aa.min.css
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\assets\stylesheets\main.9f9400aa.min.css
+Content Type: text/css
+
+Uri: https://iashin.ai/video_features/assets/stylesheets/palette.cbb835fc.min.css
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\assets\stylesheets\palette.cbb835fc.min.css
+Content Type: text/css
+
+Uri: https://iashin.ai/video_features/meta/docker/
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\meta\docker\index.htm
+Content Type: text/html
+
+Uri: https://iashin.ai/video_features/models/clip/
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\models\clip\index.htm
+Content Type: text/html
+
+Uri: https://iashin.ai/video_features/models/i3d/
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\models\i3d\index.htm
+Content Type: text/html
+
+Uri: https://iashin.ai/video_features/models/pwc/
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\models\pwc\index.htm
+Content Type: text/html
+
+Uri: https://iashin.ai/video_features/models/r21d/
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\models\r21d\index.htm
+Content Type: text/html
+
+Uri: https://iashin.ai/video_features/models/raft/
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\models\raft\index.htm
+Content Type: text/html
+
+Uri: https://iashin.ai/video_features/models/resnet/
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\models\resnet\index.htm
+Content Type: text/html
+
+Uri: https://iashin.ai/video_features/models/s3d/
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\models\s3d\index.htm
+Content Type: text/html
+
+Uri: https://iashin.ai/video_features/models/vggish/
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\models\vggish\index.htm
+Content Type: text/html
+
+Uri: https://iashin.ai/video_features/_assets/base.png
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\_assets\base.png
+Content Type: image/png
+
+Uri: https://iashin.ai/video_features/_assets/clip.png
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\_assets\clip.png
+Content Type: image/png
+
+Uri: https://iashin.ai/video_features/_assets/i3d.png
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\_assets\i3d.png
+Content Type: image/png
+
+Uri: https://iashin.ai/video_features/_assets/pwc.png
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\_assets\pwc.png
+Content Type: image/png
+
+Uri: https://iashin.ai/video_features/_assets/r21d.png
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\_assets\r21d.png
+Content Type: image/png
+
+Uri: https://iashin.ai/video_features/_assets/raft.png
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\_assets\raft.png
+Content Type: image/png
+
+Uri: https://iashin.ai/video_features/_assets/resnet.png
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\_assets\resnet.png
+Content Type: image/png
+
+Uri: https://iashin.ai/video_features/_assets/s3d.png
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\_assets\s3d.png
+Content Type: image/png
+
+Uri: https://iashin.ai/video_features/_assets/vggish.png
+File Name: C:\Downloaded Web Sites\iashin.ai\video_features\_assets\vggish.png
+Content Type: image/png
+
+Uri: https://img.shields.io/badge/🤗 Hugging Face-Spaces-blue
+File Name: C:\Downloaded Web Sites\iashin.ai\badge\🤗 Hugging Face-Spaces-blue
+Content Type: image/svg+xml
+
+Uri: https://openaccess.thecvf.com/content_ECCVW_2018/papers/11134/Chen_Visually_Indicated_Sound_Generation_by_Perceptually_Optimized_Classification_ECCVW_2018_paper.pdf
+File Name: C:\Downloaded Web Sites\iashin.ai\content_ECCVW_2018\papers\11134\Chen_Visually_Indicated_Sound_Generation_by_Perceptually_Optimized_Classification_ECCVW_2018_paper.pdf
+Content Type: application/pdf
+
+Uri: https://polyfill.io/v3/polyfill.min.js?features=es6
+File Name: C:\Downloaded Web Sites\iashin.ai\v3\polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://raw.githubusercontent.com/v-iashin/WebsiteYOLO/master/data/coco.names
+File Name: C:\Downloaded Web Sites\iashin.ai\v-iashin\WebsiteYOLO\master\data\coco.names
+Content Type: text/plain
+
